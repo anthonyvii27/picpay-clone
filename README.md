@@ -4,7 +4,7 @@ Clone of PicPay's Home and Wallet screen, created using React Native and Expo.
 
 
 
-#### Installation
+### Installation
 
 Firstly, you need to have NodeJS in you computer. After that, clone this repository:
 
@@ -24,7 +24,7 @@ $ npm install
 
 
 
-#### Run app
+### Run app
 
 Run the command bellow to start Expo. After that, open the Expo app on your smartphone.
 
